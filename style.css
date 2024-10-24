@@ -1,0 +1,17 @@
+/* código omitido */
+
+body {
+    background-color: #c0e6f0;
+    color: white;
+    font-family: "Arial", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+button {
+    background-color: #1284a7;
+    color: white;
+    font-family: "Arial", sans-serif;
+}
